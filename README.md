@@ -1,16 +1,15 @@
 # MERN E-COMMERCE PROJECT
 
-Hi! My name is **Naushad alam**, I have created E-commerce Website For collage Project.
+Hi! My name is **Naushad alam**, I have created E-commerce .
 
 # Prerequisite
 
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . \_I have made website.
+1.  Must have basic knowledge of **Node**,  **Express**, **MongoDB** . \_I have made website.
 
 # Install Dependencies
 
-**For Backend** - `npm i`
+**Backend** - `npm i`
 
-**For Frontend** - `cd frontend` ` npm i`
 
 ## Env Variables
 
